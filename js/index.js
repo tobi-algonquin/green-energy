@@ -1,18 +1,18 @@
 // DATA RESOURCES
 let dataResorce = [
     {
-        heading: "Water",
-        bodyText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        heading: "Development Banks and Risks",
+        bodyText: "Development banks can take on the risks that no other actors are willing to take. ... For every $1 [development banks] invest, they can leverage up to $20 in private finance, New Climate Economy said in a release. The markets are working. The cost of renewables are dropping. People are seeing the promise to energy efficiency.",
         imgUrl: "./img/water.jpg"
     },
     {
-        heading: "Power",
-        bodyText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        heading: "Community Solar ",
+        bodyText: " A community solar project, or solar garden, is a collection of solar panels whose energy is shared by multiple houses. The solar garden would power each home’s water, heat and electricity while the entire community would split the lower energy costs.",
         imgUrl: "./img/lightbulb.jpg"
     },
     {
-        heading: "Clean Air",
-        bodyText: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        heading: "Clean Energy Tax Credits",
+        bodyText: "We need a fair and stable federal tax policy for renewable energy that will attract new investments and maintain the strong growth that renewables have experienced in recent years.",
         imgUrl: "./img/power.jpg"
     }
 ];
